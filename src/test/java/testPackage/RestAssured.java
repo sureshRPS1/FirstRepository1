@@ -8,6 +8,8 @@ public class RestAssured {
 		// TODO Auto-generated method stub
 
 		RestAssured.baseURI="";
+
+System.out.println();
 	}
 
 }
