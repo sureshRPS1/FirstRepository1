@@ -9,7 +9,9 @@ public class RestAssured {
 
 		RestAssured.baseURI="";
 
-System.out.println();
+System.out.println("Test updated");
+
+
 	}
 
 }

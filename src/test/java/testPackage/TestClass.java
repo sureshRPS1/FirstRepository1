@@ -18,6 +18,7 @@ class B extends TestClass{
 		//display1();	
 			//new TestClass().display1();
 			System.out.println("Test");
+System.out.println("Test");
 		}
 }
 
